@@ -3,13 +3,12 @@ Examen Mercado Libre
 Magneto quiere reclutar la mayor cantidad de mutantes para poder luchar contra los X-Men. 
 
 ##Requerimientos
-JDK 8
-SpringBoot 2.4.3
-MariaDB
-Maven 3.6.3
-aws beanstalk
-aws RDS
-
+	* JDK 8
+	* SpringBoot 2.4.3
+	* MariaDB
+	* Maven 3.6.3
+	* aws beanstalk
+	* aws RDS
 
 ##Instrucciones de Ejecucion Local
 1. Realizar un clone del repositorio ejecutando el comando Git git clone https://github.com/jony32539/meli.git
@@ -25,3 +24,5 @@ aws RDS
 	{
 		"dna":["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]
 	}
+	
+
